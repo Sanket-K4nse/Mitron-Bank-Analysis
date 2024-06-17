@@ -95,7 +95,7 @@ Average Income Utilization stands at 42.82%
 
 ![Screenshot 2024-06-17 170937](https://github.com/Sanket-K4nse/Mitron-Bank-Analysis/assets/161265478/556d8c48-0d23-4446-a1e3-8301fc5eb223)
 
-- **Income, Spend, Utilization by Category:**
+- **Total spent by Category:**
   
 ![Screenshot 2024-06-17 171020](https://github.com/Sanket-K4nse/Mitron-Bank-Analysis/assets/161265478/a7ec6711-8d80-4be5-83a3-4514859f3a6c)
 

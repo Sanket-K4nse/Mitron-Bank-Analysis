@@ -128,14 +128,14 @@ Chennai, Delhi NCR, Bengaluru, and Hyderabad follow with varying utilization rat
 
 Credit card become the most preferable payment choice by the customers.
 
-- **Total spent on payment type:**
+- **Credit card usages %:**
 
 ![Screenshot 2024-06-17 171705](https://github.com/Sanket-K4nse/Mitron-Bank-Analysis/assets/161265478/0c766dab-95f0-41ba-a9f6-bae8218430c0)
 
-Credit card usage % in chennai is almost 42% as comparedto the other payment choices. 
+Credit card usage % in chennai is almost 42% as compare to the other payment choices. 
 
 - **Avg Income Utilization % By Category And Payment Mode:**
-- 
+ 
 ![Screenshot 2024-06-17 171716](https://github.com/Sanket-K4nse/Mitron-Bank-Analysis/assets/161265478/96074b9a-33f9-4e1d-8ac6-9805810d92b4)
 
 

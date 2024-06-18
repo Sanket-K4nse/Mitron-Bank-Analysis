@@ -172,3 +172,18 @@ Credit card usage % in chennai is almost 42% as compare to the other payment cho
 
 
 - **Purpose of full grid analytics:** To provide full insights, summarizes key metrics, trends and a comprehensive overview of the organization’s performance.
+  
+
+
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
